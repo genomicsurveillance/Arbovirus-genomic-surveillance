@@ -1,0 +1,100 @@
+,EventTime,Origin,Destination
+1,2015.001348,Asia,Asia
+2,2011.001348,Asia,Oceania
+3,1999.691848,Asia,Oceania
+4,2009.365708,Oceania,SouthAmerica
+5,2010.001338,Asia,Oceania
+6,2010.338318,Asia,Oceania
+7,2011.686268,Oceania,Asia
+8,2010.877148,Oceania,Asia
+9,2016.001328,Asia,Oceania
+10,2002.001348,Asia,Oceania
+11,2008.061448,Asia,Oceania
+12,2010.001338,Asia,Oceania
+13,2010.001338,Asia,Oceania
+14,2015.540018,Asia,Oceania
+15,2010.534418,Asia,Caribbean
+16,2015.001338,Caribbean,SouthAmerica
+17,2013.727368,Caribbean,Asia
+18,2011.001348,Asia,Oceania
+19,2016.001358,Asia,Oceania
+20,1988.353808,Asia,Oceania
+21,1977.813638,Asia,Oceania
+22,1978.399988,Oceania,Caribbean
+23,1982.231488,Caribbean,North Brazil
+24,1988.001358,Caribbean,SouthAmerica
+25,1989.001358,SouthAmerica,Caribbean
+26,2009.393808,Caribbean,Asia
+27,1981.993948,Caribbean,CentralAmerica
+28,1980.561508,Caribbean,Africa
+29,1982.992908,Africa,CentralAmerica
+30,1982.001358,Africa,SouthAmerica
+31,1983.001358,Africa,Caribbean
+32,1983.001358,Africa,CentralAmerica
+33,1990.001358,CentralAmerica,SouthAmerica
+34,1983.001358,Africa,CentralAmerica
+35,1982.001358,Africa,SouthAmerica
+36,1981.974648,Africa,SouthAmerica
+37,1983.001358,SouthAmerica,CentralAmerica
+38,1984.001348,SouthAmerica,Oceania
+39,1982.001358,Africa,SouthAmerica
+40,1991.001358,SouthAmerica,CentralAmerica
+41,1987.001358,Caribbean,CentralAmerica
+42,1994.001358,Caribbean,SouthAmerica
+43,1992.817018,Caribbean,SouthAmerica
+44,2006.001358,Caribbean,CentralAmerica
+45,2004.749988,Caribbean,SouthAmerica
+46,2005.086288,Caribbean,SouthAmerica
+47,1997.296788,Caribbean,CentralAmerica
+48,2003.465468,Caribbean,North Brazil
+49,2010.001358,North Brazil,SouthAmerica
+50,2016.001348,Caribbean,Caribbean
+51,2015.908208,Caribbean,Asia
+52,2016.001358,Caribbean,CentralAmerica
+53,1998.427898,Caribbean,CentralAmerica
+54,2022.839728,CentralAmerica,Caribbean
+55,1991.777828,Caribbean,SouthAmerica
+56,2010.001368,SouthAmerica,Asia
+57,2017.548318,SouthAmerica,Caribbean
+58,2022.817808,Caribbean,Caribbean
+59,2022.606858,Caribbean,Caribbean
+60,2022.812328,Caribbean,Caribbean
+61,2022.768488,Caribbean,Caribbean
+62,2007.018128,SouthAmerica,North Brazil
+63,2012.408468,North Brazil,Northeast Brazil
+64,2013.001368,North Brazil,Southeast Brazil
+65,2011.365748,North Brazil,Northeast Brazil
+66,2013.434248,North Brazil,Asia
+67,2013.001378,North Brazil,Southeast Brazil
+68,2013.149318,North Brazil,Southeast Brazil
+69,2012.001368,North Brazil,Northeast Brazil
+70,2011.001368,North Brazil,Southeast Brazil
+71,2011.645018,North Brazil,Southeast Brazil
+72,2008.291258,North Brazil,Southeast Brazil
+73,2010.215818,Southeast Brazil,Midwest Brazil
+74,2014.195898,Midwest Brazil,SouthAmerica
+75,2011.939288,Midwest Brazil,Southeast Brazil
+76,2019.617658,Southeast Brazil,SouthAmerica
+77,2009.489368,North Brazil,Rio de Janeiro
+78,2016.181698,Rio de Janeiro,SouthAmerica
+79,2013.349328,Rio de Janeiro,Southeast Brazil
+80,2011.001378,Rio de Janeiro,Southeast Brazil
+81,2012.200828,Rio de Janeiro,Southeast Brazil
+82,2010.377268,Rio de Janeiro,Southeast Brazil
+83,2012.260928,Southeast Brazil,Midwest Brazil
+84,2017.621388,Southeast Brazil,SouthAmerica
+85,2013.223288,Rio de Janeiro,Southeast Brazil
+86,2010.568948,Rio de Janeiro,Midwest Brazil
+87,2011.284708,Midwest Brazil,Southeast Brazil
+88,2010.686298,Rio de Janeiro,North Brazil
+89,2013.212328,North Brazil,Southeast Brazil
+90,2015.075338,North Brazil,Caribbean
+91,2013.234238,North Brazil,Southeast Brazil
+92,2012.935788,Rio de Janeiro,Southeast Brazil
+93,2010.566778,Rio de Janeiro,Southeast Brazil
+94,2012.001368,Southeast Brazil,Rio de Janeiro
+95,2013.393158,Rio de Janeiro,Southeast Brazil
+96,2013.206858,Rio de Janeiro,Southeast Brazil
+97,2011.179458,Southeast Brazil,North Brazil
+98,2011.947948,North Brazil,Southeast Brazil
+99,2012.001348,Southeast Brazil,Rio de Janeiro
